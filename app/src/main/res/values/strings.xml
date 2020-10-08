@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Architecture Example</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="priority">Priority:</string>
+    <string name="save">Save</string>
+    <string name="addNoteTitle">Add Note</string>
+    <string name="toastMsgTitleDescription">Please enter a title and description</string>
+    <string name="toastMsgNoteSaved">Note saved</string>
+    <string name="toastMsgNoteNotSaved">Note not saved</string>
 </resources>
